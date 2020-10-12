@@ -12,3 +12,5 @@ code for BINOCULARS and Multi-Step BO
 
 Then go to enbo/ and follow enbo/README
 
+This repo contains a copy of the BoTorch repo: https://github.com/pytorch/botorch, with some modifications.
+
