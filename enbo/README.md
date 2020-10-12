@@ -64,6 +64,7 @@ optimizing the one-shot objective; "q.ms.n" means no warm-start.
 See util/acq_func_optimization.py for details of the supported methods and more
 parameterization. 
 
+# Others
 "./intuition_plots" contains the python notebook producing Figure 1 in
 the BINOCULARS paper
 
