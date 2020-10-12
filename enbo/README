@@ -1,3 +1,4 @@
+# How to run the code? 
 You can follow run_bo_task_example.ipynb to run an experiment in a Python
 notebook, or use the following command to run in terminal 
 
@@ -34,8 +35,8 @@ $ python run_bo_task.py svm_on_grid 4.EI.sample 20 2 1 results_dir log_dir
 see also test_run_bo_task.sh
 
 
-Supported methods:
-(in the following "q" means (pseudo) lookahead horizon")
+# Supported methods
+In the following "q" means (pseudo) lookahead horizon. 
 
 * "random": random policy used as baseline
 
