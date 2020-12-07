@@ -1,4 +1,8 @@
 # How to run the code? 
+To get started, run 
+
+$ sh test_run_bo_task.sh
+
 You can follow run_bo_task_example.ipynb to run an experiment in a Python
 notebook, or use the following command to run in terminal 
 
