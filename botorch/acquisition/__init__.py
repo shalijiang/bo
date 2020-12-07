@@ -28,7 +28,7 @@ from .monte_carlo import (
 )
 from .two_step_ei import TwoStepEI
 from .multi_step_lookahead import qMultiStepLookahead
-from .tree_based_policy import TreeBasedPolicySearch
+#from .tree_based_policy import TreeBasedPolicySearch
 from .objective import (
     ConstrainedMCObjective,
     GenericMCObjective,
