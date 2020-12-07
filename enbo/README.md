@@ -1,5 +1,5 @@
 # How to run the code? 
-To get started, run 
+To test the installation, run the following command in Mac or Linux terminal 
 
 $ sh test_run_bo_task.sh
 
@@ -55,7 +55,7 @@ batch size greater than 1, i.e., q-1; n is the number of y samples. e.g.,
       3.rts.10 means second step is of batch size 2, and 10 samples in approximating the expectation term in Eq. (4) of https://papers.nips.cc/paper/9174-practical-two-step-lookahead-bayesian-optimization.pdf
 
 * "q.wsms.n": our proposed multi-step expected improvement, using warm-start for
-optimizing the one-shot objective; "q.ms.n" means no warm-start. 
+optimizing the one-shot objective; "q.ms.n" means no warm-start. e.g., 2.wsms.1 for 2-step with one sample (i.e., 2-path)
 
 * "q.wspms.n": our proposed pseudo multi-step method as in Eq. (7) of https://arxiv.org/pdf/2006.15779.pdf
 
